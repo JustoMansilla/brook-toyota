@@ -23,3 +23,10 @@
 	font-weight: normal;
 	font-style: normal;
 }
+
+@font-face{
+	font-family: "toyota-black";
+	src: url(/fonts/ToyotaType-Black.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
